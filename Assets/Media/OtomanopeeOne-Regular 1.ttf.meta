@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3244a733a4506264094c96a1219a9b2d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Otomanopee One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e740de20454a5cf438a326f530bd1823, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
